@@ -1,0 +1,1 @@
+Implement Michael Colllins 'Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms'
